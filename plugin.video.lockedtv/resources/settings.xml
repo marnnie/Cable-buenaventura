@@ -1,0 +1,15 @@
+<settings>
+<category label="Settings">
+	<setting id="site" type="text" label="Site" default="prozone" visible="false"/>
+	<setting id="user" type="text" label="Username" default=""/>
+	<setting id="password" type="text" label="Password" default=""/>
+	<setting id="genre" type="bool" label="Enable Genres" default="true"/>
+    <setting id="timefrom" type="enum" values="-12|-11|-10|-9|-8|-7|-6|-5|-4|-3|-2|-1|0|+1|+2|+3|+4|+5|+6|+7|+8|+9|+10|+11|+12" label="Time From Qatar" default="10"/>
+    <setting id="gmtfrom" type="enum" values="-12|-11|-10|-9|-8|-7|-6|-5|-4|-3|-2|-1|0|+1|+2|+3|+4|+5|+6|+7|+8|+9|+10|+11|+12" label="Time From GMT" default="12"/>
+    <setting id="tvguide" type="bool" label="Enable Instant Guide" default="false"/>
+    <setting id="hd" type="bool" label="Just Show HD" default="false"/>
+    <setting id="authtoken" type="text" label="Auth Token" default="" visible="false"/>
+    <!-- Login Time --> 
+    <setting id="login_time" type="text" label="Log-in Time" default="2000-01-01 00:00:00" visible="false"/>
+</category>
+</settings>
