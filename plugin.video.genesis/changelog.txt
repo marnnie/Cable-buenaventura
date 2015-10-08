@@ -1,4 +1,247 @@
 ------------------------
+Genesis v5.0.9 (30-Sep-15)
+------------------------
+
+- [COLOR orange]NOTE: Genesis is a free addon and it will always be a free addon.[/COLOR]
+- [COLOR orange]NOTE: Anyone that tells you otherwise is trying to steal your money.[/COLOR]
+
+- [COLOR orange]NOTE: I have no plans to stop Genesis development any time soon.[/COLOR]
+- [COLOR orange]NOTE: If that ever changes it would be announced by me on the TVADDONS forum.[/COLOR]
+- [COLOR orange]NOTE: Not via other anonymous people on the internet.[/COLOR]
+
+- [COLOR orange]NOTE: Recently there have been fake updates coming from Superrepo.[/COLOR]
+- [COLOR orange]NOTE: There was never a 5.0.8i version.[/COLOR]
+- [COLOR orange]NOTE: I will protect this addon against possible malicious code at any cost.[/COLOR]
+- [COLOR orange]NOTE: @Bart Otten: This is my first and final warning.[/COLOR]
+- [COLOR orange]NOTE: If this happens again, I will add code to remove Superrepo automatically.[/COLOR]
+
+- Fixed more issues with smart play.
+- Added progress dialog in smart play.
+- Fixed issue with Dizigold source.
+- Fixed issue with Filmikz source.
+- Code cosmetics.
+
+
+------------------------
+Genesis v5.0.8 (28-Sep-15)
+------------------------
+
+- [COLOR orange]NOTE: Genesis is a free addon and it will always be a free addon.[/COLOR]
+- [COLOR orange]NOTE: Anyone that tells you otherwise is trying to steal your money.[/COLOR]
+
+- [COLOR orange]NOTE: I have no plans to stop Genesis development any time soon.[/COLOR]
+- [COLOR orange]NOTE: If that ever changes it would be announced by me on the TVA forum and not via other anonymous people on the internet.[/COLOR]
+
+- Fixed issue with MoviesHD source.
+- Fixed issue with Onlinemovies source.
+- Fixed issue with Yifystream source.
+- Fixed issue with Yify source.
+- Fixed issue with Dizimag source.
+- Fixed issue with Openload resolver.
+- Optimized smart play for low end devices.
+- Downloader: Fixed issue with invalid characters.
+- Added Romanian translation.
+- Updated translations.
+- Code cosmetics.
+
+
+------------------------
+Genesis v5.0.7 (25-Sep-15)
+------------------------
+
+- [COLOR orange]NOTE: Genesis is a free addon and it will always be a free addon.[/COLOR]
+- [COLOR orange]NOTE: Anyone that tells you otherwise is trying to steal your money.[/COLOR]
+
+- [COLOR orange]NOTE: I have no plans to stop Genesis development any time soon.[/COLOR]
+- [COLOR orange]NOTE: If that ever changes it would be announced by me on the TVA forum and not via other anonymous people on the internet.[/COLOR]
+
+- Added smart play feature.
+- NOTE: Smart play detects deleted streams from filehosts.
+- NOTE: It bypasses them and finds a working stream of the same filehost.
+
+- Re-added simple downloading support (thx 2 spoyser).
+- NOTE: Downloading will change again in future.
+- NOTE: A seperate addon will be used for downloading from Genesis.
+- NOTE: You can access your downloaded content from My Genesis section.
+
+- Updated available sources.
+- Updated available resolvers.
+- Tweaked default timeout of sources.
+- Tweaked requests timeout.
+- Updated translations.
+- Code cosmetics.
+
+
+------------------------
+Genesis v5.0.6 (19-Sep-15)
+------------------------
+
+- Added Filmikz source.
+- Added Moviefarsi source.
+- Added MovieTV source.
+- Added Onlinemovies source.
+- Added Movietube source.
+- Added Dizigold source.
+- Added Easynews source.
+- NOTE: Easynews is a usenet source.
+- NOTE: Enable it and add your account in the addon's settings.
+- Extended Muchmovies source to tv shows.
+- Extended Xmovies source to tv shows.
+- Removed PlayBox source.
+- Updated available sources.
+- Updated available resolvers.
+- Tweaked default timeout of sources.
+- Tweaked requests timeout.
+- Added French translation.
+- Updated Hebrew translation.
+- Code cosmetics.
+
+
+------------------------
+Genesis v5.0.5 (12-Sep-15)
+------------------------
+
+- Added Beinmovie source.
+- Added Dizilab source.
+- Added Dizimag source.
+- Added TVrelease source.
+- Removed Moviezone source.
+- Removed Clickplay source.
+- Updated available sources.
+- Updated available resolvers.
+- Code cosmetics.
+
+
+------------------------
+Genesis v5.0.4 (9-Sep-15)
+------------------------
+
+- Tweaked Icefilms source.
+- Tweaked DirectDownload source.
+- Tweaked resolvers.
+- Added German translation.
+- Updated Hebrew translation.
+- Code cosmetics.
+
+
+------------------------
+Genesis v5.0.3 (8-Sep-15)
+------------------------
+
+- Added Megabox source.
+- Updated available sources.
+- NOTE: Ororo in some areas may need an account, create an account at http://ororo.tv
+- NOTE: Don't forget to add your account in the addon's settings.
+- Tweaked default timeout of sources to 15 seconds.
+- Updated available resolvers.
+- Code cosmetics.
+
+
+------------------------
+Genesis v5.0.2 (5-Sep-15)
+------------------------
+
+- Tweaked favourites.
+- Tweaked tv show search.
+- Tweaked movie and tv show listings.
+- Fixed issue with missing tv shows.
+- Fixed issue with season and episode listings.
+- Added Dutch and Hebrew translations.
+- Fixed Alluc source.
+- NOTE: Alluc requires an account, create an account at http://accounts.alluc.com
+- NOTE: Don't forget to add your account in the addon's settings.
+- Fixed Icefilms source.
+- NOTE: Icefilms source shows ice ads before playback starts.
+- NOTE: Don't forget that you can disable the source.
+- Updated available sources.
+- Code cosmetics.
+
+
+------------------------
+Genesis v5.0.1 (2-Sep-15)
+------------------------
+
+- Fixed issue with Trakt Progress.
+- Added Croatian, Greek and Portuguese translations.
+- Updated available sources.
+- Updated available resolvers.
+- Code cosmetics.
+
+
+------------------------
+Genesis v5.0.0 (28-Aug-15)
+------------------------
+
+- Complete addon re-work.
+- Code cosmetics.
+
+
+------------------------
+Genesis v4.8.5 (24-Jul-15)
+------------------------
+
+- Added Movienight source.
+- Removed Sweflix source.
+- Updated available sources.
+- Updated available resolvers.
+- Code cosmetics.
+
+
+------------------------
+Genesis v4.8.4 (16-Jul-15)
+------------------------
+
+- Re-work of navigation.
+- Updated available sources.
+- Updated available resolvers.
+- Fixed Portuguese and Brazilian subtitle search (Mafarricos).
+- Added option for converting subtitles to UTF-8 (mitnits).
+- Added documentaries to genres section (ooXei1sh).
+- Tweaked cache timeout calculation (fopina).
+- Added Russian translation (mitnits).
+- Added confirmation in download manager.
+- Fixed naming issue in download manager.
+- Fixed issue with views detection.
+- Tweaked context menus.
+- Code cosmetics.
+
+
+------------------------
+Genesis v4.8.3 (9-Jul-15)
+------------------------
+
+- Fixed available sources.
+- Fixed available resolvers.
+- Added Pubfilm source.
+- Removed Onlinemovies source.
+- Added download manager.
+- NOTE: You will have to set your download path again.
+- Tweaked views detection.
+- Tweaked tools section.
+- Code cosmetics.
+
+
+------------------------
+Genesis v4.8.2 (1-Jul-15)
+------------------------
+
+- Fixed various sources.
+- Tweaked library integration.
+- Tweaked search.
+- Code cosmetics.
+
+
+------------------------
+Genesis v4.8.1 (29-Jun-15)
+------------------------
+
+- Fixed various sources.
+- Fixed various resolvers.
+- Fixed issue with scene "Latest Movies".
+- Code cosmetics.
+
+
+------------------------
 Genesis v4.8.0 (28-Jun-15)
 ------------------------
 
